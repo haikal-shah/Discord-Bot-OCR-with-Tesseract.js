@@ -1,0 +1,1 @@
+# Discord-Bot-OCR-with-Tesseract.js
